@@ -1,0 +1,94 @@
+{
+    "level": [
+        {
+            "name": "box_first",
+            "pos": {
+                "x": 0,
+                "y": 5,
+                "z": 0
+            },
+            "size": {
+                "l": 5,
+                "b": 10,
+                "h": 5
+            },
+            "color": 23419653,
+            "tttt": "tttt"
+        },
+        {
+            "name": "box_second",
+            "pos": {
+                "x": 0,
+                "y": 15,
+                "z": 0
+            },
+            "size": {
+                "l": 5,
+                "b": 10,
+                "h": 5
+            },
+            "color": 5289149,
+            "bbbb": "bbbb"
+        },
+        {
+            "name": "box_third",
+            "pos": {
+                "x": 0,
+                "y": 25,
+                "z": 0
+            },
+            "size": {
+                "l": 5,
+                "b": 10,
+                "h": 5
+            },
+            "color": 2280102,
+            "vvvv": "vvvv"
+        },
+        {
+            "name": "box_fourth",
+            "pos": {
+                "x": 0,
+                "y": 35,
+                "z": 0
+            },
+            "size": {
+                "l": 5,
+                "b": 10,
+                "h": 5
+            },
+            "color": 3206164,
+            "aaaaa": "aaaaa"
+        },
+        {
+            "name": "box_fifth",
+            "pos": {
+                "x": 0,
+                "y": 45,
+                "z": 0
+            },
+            "size": {
+                "l": 5,
+                "b": 10,
+                "h": 5
+            },
+            "color": 2517761,
+            "qqqq": "qqqqq"
+        },
+        {
+            "name": "box_sixth",
+            "pos": {
+                "x": 0,
+                "y": 55,
+                "z": 0
+            },
+            "size": {
+                "l": 5,
+                "b": 20,
+                "h": 20
+            },
+            "color": 1571880,
+            "qqqq": "qqqqq"
+        }
+    ]
+}

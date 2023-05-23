@@ -1,0 +1,94 @@
+{
+    "level": [
+        {
+            "name": "box_first",
+            "pos": {
+                "x": 0,
+                "y": 7,
+                "z": 0
+            },
+            "size": {
+                "l": 3,
+                "b": 15,
+                "h": 3
+            },
+            "color": 23419653,
+            "tttt": "tttt"
+        },
+        {
+            "name": "box_second",
+            "pos": {
+                "x": 5,
+                "y": 7,
+                "z": 0
+            },
+            "size": {
+                "l": 3,
+                "b": 15,
+                "h": 3
+            },
+            "color": 5289149,
+            "bbbb": "bbbb"
+        },
+        {
+            "name": "box_third",
+            "pos": {
+                "x": 2.5,
+                "y": 17,
+                "z": 0
+            },
+            "size": {
+                "l": 25,
+                "b": 5,
+                "h": 5
+            },
+            "color": 2280102,
+            "vvvv": "vvvv"
+        },
+        {
+            "name": "box_fourth",
+            "pos": {
+                "x": 2.5,
+                "y": 30,
+                "z": 0
+            },
+            "size": {
+                "l": 3,
+                "b": 20,
+                "h": 3
+            },
+            "color": 3206164,
+            "aaaaa": "aaaaa"
+        },
+        {
+            "name": "box_fifth",
+            "pos": {
+                "x": 2.5,
+                "y": 41,
+                "z": 0
+            },
+            "size": {
+                "l": 15,
+                "b": 3,
+                "h": 3
+            },
+            "color": 2517761,
+            "qqqq": "qqqqq"
+        },
+        {
+            "name": "box_sixth",
+            "pos": {
+                "x": 2.5,
+                "y": 48,
+                "z": 0
+            },
+            "size": {
+                "l": 5,
+                "b": 20,
+                "h": 20
+            },
+            "color": 251867,
+            "qqqq": "qqqqq"
+        }
+    ]
+}

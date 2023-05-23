@@ -1,0 +1,94 @@
+{
+    "level": [
+        {
+            "name": "box_first",
+            "pos": {
+                "x": 0,
+                "y": 7,
+                "z": 0
+            },
+            "size": {
+                "l": 3,
+                "b": 15,
+                "h": 3
+            },
+            "color": 23419653,
+            "tttt": "tttt"
+        },
+        {
+            "name": "box_second",
+            "pos": {
+                "x": 0,
+                "y": 16,
+                "z": 0
+            },
+            "size": {
+                "l": 30,
+                "b": 2,
+                "h": 3
+            },
+            "color": 5289149,
+            "bbbb": "bbbb"
+        },
+        {
+            "name": "box_third",
+            "pos": {
+                "x": 13,
+                "y": 24,
+                "z": 0
+            },
+            "size": {
+                "l": 3,
+                "b": 15,
+                "h": 3
+            },
+            "color": 2280102,
+            "vvvv": "vvvv"
+        },
+        {
+            "name": "box_fourth",
+            "pos": {
+                "x": -13,
+                "y": 24,
+                "z": 0
+            },
+            "size": {
+                "l": 3,
+                "b": 15,
+                "h": 3
+            },
+            "color": 3206164,
+            "aaaaa": "aaaaa"
+        },
+        {
+            "name": "box_fifth",
+            "pos": {
+                "x": 0,
+                "y": 33,
+                "z": 0
+            },
+            "size": {
+                "l": 30,
+                "b": 2,
+                "h": 3
+            },
+            "color": 2517761,
+            "qqqq": "qqqqq"
+        },
+        {
+            "name": "box_sixth",
+            "pos": {
+                "x": 0,
+                "y": 38,
+                "z": 0
+            },
+            "size": {
+                "l": 4,
+                "b": 20,
+                "h": 20
+            },
+            "color": 251867,
+            "qqqq": "qqqqq"
+        }
+    ]
+}
